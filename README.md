@@ -1,1 +1,1 @@
-# CeLuigi-BIQA4ConsumerPhotographs
+BIQA4ConsumerPhotographs
