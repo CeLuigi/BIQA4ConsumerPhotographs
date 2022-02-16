@@ -6,7 +6,7 @@ Code for the paper *Blind Image Quality Assessment of Authentically Distorted Im
 
 ## Dependencies
 * Python 3.8
-* [PyTorch](https://pytorch.org/) 0.10.0
+* [PyTorch](https://pytorch.org/) 1.5.1
 * Torchvision
 * Cuda 11.4
 
