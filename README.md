@@ -1,5 +1,5 @@
 # Blind Image Quality Assessment of Authentically Distorted Images
-Code for the paper *Blind Image Quality Assessment of Authentically Distorted Images* (JOSA A).
+Code for the paper *Blind Image Quality Assessment of Authentically Distorted Images* ([JOSA A](https://doi.org/10.1364/JOSAA.448144)).
 
 ## Proposed architecture
 <img src="./assets/network.png" width="1000"/>
