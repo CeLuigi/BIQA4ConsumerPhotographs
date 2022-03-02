@@ -24,7 +24,7 @@ If you find this code useful to your research, please consider citing:
  volume = {39},
  year = {2022},
  number = {4},
- pages = {-},
+ pages = {B1--B10},
  doi = {10.1364/JOSAA.448144}
 }
 ```
